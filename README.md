@@ -63,9 +63,7 @@ python app.py
 </details>
 
 ## 🚀 Usage
-<div align="center">
-  <img src="https://via.placeholder.com/600x300?text=AI+Medical+Diagnosis+Interface" alt="System Interface" width="600px"/>
-</div>
+
 
 1. 🖥️ Launch the application using `python app.py`
 2. 🔍 Select the disease prediction module you want to use
@@ -193,9 +191,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## ⚠️ Medical Disclaimer
 
 <div align="center">
-  <img src="https://via.placeholder.com/30x30?text=!" alt="Warning" width="30px" style="display:inline;"/>
   <b>IMPORTANT NOTICE</b>
-  <img src="https://via.placeholder.com/30x30?text=!" alt="Warning" width="30px" style="display:inline;"/>
 </div>
 
 This system is designed to **assist** medical professionals in diagnosis and should not replace professional medical advice or treatment. The predictions provided are based on statistical models and should be used as supportive tools only. Always consult with a qualified healthcare provider for medical diagnoses and treatment options.
