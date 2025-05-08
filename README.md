@@ -89,9 +89,7 @@ python app.py
 
 ## 📊 Model Performance
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Performance+Visualization" alt="Model Performance" width="600px"/>
-</div>
+
 
 <table align="center">
   <tr>
@@ -166,9 +164,7 @@ python app.py
 
 We welcome contributions to enhance this life-saving platform! Join our community of healthcare innovators.
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x100?text=Join+Our+Community+of+Contributors" alt="Contributors" width="800px"/>
-</div>
+
 
 1. 🍴 Fork the repository
 2. 🌿 Create your feature branch (`git checkout -b feature/amazing-feature`)
