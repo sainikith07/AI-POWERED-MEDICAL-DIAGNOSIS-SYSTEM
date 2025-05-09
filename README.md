@@ -4,7 +4,7 @@
   <b>Revolutionizing healthcare with advanced AI algorithms for accurate medical diagnoses</b>
 </p>
  
----    
+---     
 
 ## 🌟 Overview
 This cutting-edge repository contains a comprehensive AI-powered medical diagnosis system that uses state-of-the-art machine learning to predict various medical conditions based on patient data. Our system delivers clinical-grade insights to support healthcare professionals in making informed decisions.
