@@ -10,7 +10,7 @@
 This cutting-edge repository contains a comprehensive AI-powered medical diagnosis system that uses state-of-the-art machine learning to predict various medical conditions based on patient data. Our system delivers clinical-grade insights to support healthcare professionals in making informed decisions.
 
 ### 🩺 Disease Prediction Modules:
-
+ 
 - ❤️ **Heart Disease Prediction** - Analyze cardiovascular risk factors
 - 🫁 **Lung Cancer Detection** - Early identification of pulmonary malignancies
 - 🧠 **Parkinson's Disease Detection** - Neurological disorder assessment
