@@ -7,7 +7,7 @@ st.set_page_config(page_title="Disease Prediction", page_icon="⚕️")
  
 # Hiding Streamlit add-ons
 hide_st_style = """
-            <style>
+            <style> 
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             header {visibility: hidden;}
