@@ -1,7 +1,7 @@
 # 🔬 AI-Powered Medical Diagnosis System 🧠
 
 <p align="center"> 
-  <b>Revolutionizing healthcare with advanced AI algorithms for accurate medical diagnoses</b>
+  <b>Revolutionizing healthcare with advanced AI algorithms for accurate medical diagnoses</b> 
 </p>   
            
 ---                   
