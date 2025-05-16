@@ -12,7 +12,7 @@ This cutting-edge repository contains a comprehensive AI-powered medical diagnos
 ### 🩺 Disease Prediction Modules:
    
 - ❤️ **Heart Disease Prediction** - Analyze cardiovascular risk factors
-- 🫁 **Lung Cancer Detection** - Early identification of pulmonary malignancies
+- 🫁 **Lung Cancer Detection** - Early identification of pulmonary malignancies 
 - 🧠 **Parkinson's Disease Detection** - Neurological disorder assessment
 - 🦋 **Thyroid Condition Diagnosis** - Thyroid function analysis
 
